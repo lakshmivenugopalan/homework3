@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: coral;
+}
+
+h2 {
+    padding: 20px;
+    text-align: center
+}
+
+.carousel-item {
+    width: 642px;
+    height: 353px;
+    margin-left: auto;
+    margin-right: auto;
+    background: no-repeat center center scroll;
+    object-fit: contain
+}
+
+.carousel-inner {
+    width: 642;
+    height: 353px;
+    margin-left: auto;
+    margin-right: auto;
+    background: no-repeat center center scroll;
+    object-fit: contain
+}
